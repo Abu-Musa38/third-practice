@@ -1,0 +1,20 @@
+div{ margin: 20px;
+height:100px;}
+ h3{
+    text-align: center;
+    font-size: larger;
+ }
+
+.first{
+    background-color: aquamarine;
+   
+}
+.second{
+    background-color:orange;
+}
+.third{
+    background-color: yellowgreen;
+}
+.fourth{
+    background-color: blueviolet;
+}
