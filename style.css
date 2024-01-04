@@ -22,11 +22,14 @@
     font-weight: bold;
    color:#1d1e4c;
    text-transform: uppercase;
+   margin-left: 70px;
 }
 .top-section h4{
 text-align: end;
 font-size: 30px;
 margin-bottom: 60px;
+margin-top:20px;
+margin-right:40px;
 }
 .image_container{
     border-radius: 50%;
